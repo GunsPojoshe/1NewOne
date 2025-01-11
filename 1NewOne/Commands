@@ -1,5 +1,0 @@
-cd C:\Games\Проекты\1NewOne
-python -m venv venv
-.\venv\Scripts\activate
-
-python -m venv venv
